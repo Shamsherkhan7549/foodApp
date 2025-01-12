@@ -23,4 +23,5 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**:
    ```bash
    git clone food-app-three-sigma.vercel.app
-   cd food-delivery-app
+   cd food-app-three-sigma
+   
